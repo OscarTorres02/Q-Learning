@@ -1,4 +1,5 @@
 Algoritmo de Q-Learning para Resolver Laberintos
+
 Este proyecto implementa un agente que utiliza el algoritmo de Q-Learning para encontrar un camino óptimo a través de un laberinto de tamaño 100x100. Q-Learning es un método de aprendizaje por refuerzo que permite a un agente aprender el mejor camino en un entorno desconocido, utilizando recompensas para evaluar la calidad de cada paso. El laberinto es generado aleatoriamente, con obstáculos y una posición objetivo. Este proyecto visualiza tanto el laberinto como el recorrido óptimo encontrado por el agente entrenado.
 
 Objetivo del Proyecto
